@@ -1,0 +1,19 @@
+﻿Adım 1 =>  bak senin için yazdım uygula bilgisayarınıza python ve pip'i kuruyorsunuz.(Windows 10 için Mirosoft Store'den python indirebilirsiniz.)
+
+Adım 2 => Dosya içinde boş bir yere gelip 'shift+sağ tık' yapıyorsunuz ve powershell penceresinde veya cmd ekranında aç diyorsunuz.
+
+Adım 3 => Gelen ekrana 'pip install -r request.txt' yazıyorsunuz.
+
+Adım 4 => 'python main.py' yazıp çalıştırıyoruz.
+
+Adım 5 => Boş bir hesap açıp onun tokenini alıyorsunuz ve programda ilk olarak yazılması gereken yere yapıştırıyorsunuz.
+
+Adım 6 => Açtığınız hesapta geliştirici seçeneğini aktif hale getiriyorsunuz.
+
+Adım 7 => Kopyalamak istediğiniz sunucuya girip 'ID sini kopyalıyorsunuz'.
+
+Adım 8 => Kopyalamak istediğiniz sunucuyu geçirmek için boş bir sunucu açıyorsunuz .
+
+Adım 9 => Gerisini kodlar halledicek güle güle kullan.
+
+tokenim = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  ben öylesine koydum durmadan almayım diye :)
